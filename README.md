@@ -13,7 +13,7 @@
 <img alt="TailWind" src="https://img.shields.io/badge/tailwindcss-0F172A?&logo=tailwindcss"/>
 </p>
 
-<h3>My most recent articles</h3>
+<h3>My best Repository</h3>
 <ul>
   <li><a href="https://github.com/henrymops89/hm_blackout"><i>HM Blackout</i></a></li>
 </ul>
