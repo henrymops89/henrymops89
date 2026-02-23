@@ -18,13 +18,13 @@
   <li><a href="https://github.com/henrymops89/hm_blackout"><i>HM Blackout</i></a></li>
 </ul>
 
-If you think I deserve a little pick-me-up, why not treat me to a cup of coffee/tea? 🥺
+<h3>If you think I deserve a little pick-me-up, why not treat me to a cup of red bull or red bull? :D</h3>
 
 <a href="https://www.buymeacoffee.com/henrymops89" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 <h3>Discord Support for everyone</h3>
-![Discord Banner 3](https://discord.com/api/guilds/1452756660304220355/widget.png?style=banner3)
 <img src="https://discord.com/api/guilds/1452756660304220355/widget.png?style=banner3" alt="Discord Banner 3"/>
+
 <h3>My GitHub contributions summary</h3>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=HenryMops89&theme=dark&locale=de)](https://git.io/streak-stats)
