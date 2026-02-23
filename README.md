@@ -24,7 +24,7 @@ If you think I deserve a little pick-me-up, why not treat me to a cup of coffee/
 
 <h3>Discord Support for everyone</h3>
 ![Discord Banner 3](https://discord.com/api/guilds/1452756660304220355/widget.png?style=banner3)
-
+<img src="https://discord.com/api/guilds/1452756660304220355/widget.png?style=banner3" alt="Discord Banner 3"/>
 <h3>My GitHub contributions summary</h3>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=HenryMops89&theme=dark&locale=de)](https://git.io/streak-stats)
