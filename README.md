@@ -7,6 +7,7 @@
 <h3>When I code, I rely on</h3>
 <p>
 [![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?logo=lua&logoColor=white)](#)
+<img alt="lua" src="https://img.shields.io/badge/Lua-%232C2D72.svg?logo=lua&logoColor=white" />
 </p>
 
 <h3>My most recent articles</h3>
